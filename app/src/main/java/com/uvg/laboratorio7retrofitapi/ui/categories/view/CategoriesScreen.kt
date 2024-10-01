@@ -73,7 +73,7 @@ fun CategoriesScreen(navController: NavHostController) {
                                     fontSize = 15.sp,
                                     fontWeight= FontWeight.Bold,
                                     fontStyle = FontStyle.Italic,
-                                    color = Color(0xFF6200EE),
+                                    color = Color(0xFF00796B),
                                     lineHeight = 20.sp,
                                     overflow = TextOverflow.Ellipsis
                                 )

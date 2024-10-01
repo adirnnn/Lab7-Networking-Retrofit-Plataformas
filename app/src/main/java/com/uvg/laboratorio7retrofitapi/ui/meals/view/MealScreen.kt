@@ -54,7 +54,7 @@ fun mealsScreen(
                                                 .transformations()
                                                 .build()
                                             ,
-                                            contentDescription = "imagen jaja",
+                                            contentDescription = "Image",
                                             modifier= Modifier.fillMaxWidth()
                                         )
                                         //

@@ -83,7 +83,7 @@ fun MealDetailScreen(
                                     Column {
                                         Text(text =nombre,
                                             fontSize = 15.sp,
-                                            color = Color(0xFF6200EE),
+                                            color = Color(0xFF00796B),
                                             fontWeight= FontWeight.Bold,
                                             fontStyle = FontStyle.Italic,
                                             lineHeight = 20.sp,

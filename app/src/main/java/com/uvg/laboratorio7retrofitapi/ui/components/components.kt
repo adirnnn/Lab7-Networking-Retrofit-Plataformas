@@ -31,7 +31,7 @@ fun Texto(texto: String){
             .fillMaxWidth()
             .padding(15.dp),
         fontSize = 25.sp,
-        color = Color(0xFF6200EE),
+        color = Color(0xFF00796B),
         fontWeight= FontWeight.Bold,
         fontStyle = FontStyle.Italic,
         lineHeight = 17.sp,
@@ -48,7 +48,7 @@ fun TextoDescripcion(texto: String){
             .fillMaxWidth()
             .padding(15.dp),
         fontSize = 15.sp,
-        color = Color(0xFF6200EE),
+        color = Color(0xFF00796B),
         fontStyle = FontStyle.Normal,
         lineHeight = 17.sp,
         overflow = TextOverflow.Ellipsis
